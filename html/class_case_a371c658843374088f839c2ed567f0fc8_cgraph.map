@@ -1,0 +1,7 @@
+<map id="Case.equal" name="Case.equal">
+<area shape="rect" id="node2" href="$class_case.html#a809c70632df92bf71504afe2c3401be4" title="Case.getX" alt="" coords="153,5,234,32"/>
+<area shape="rect" id="node3" href="$class_case.html#a382d788769c0ee8c984ed47b8a24585d" title="Case.getY" alt="" coords="152,56,235,83"/>
+<area shape="rect" id="node4" href="$class_case.html#a642391cf4cff2ec20ebc8909ecbb562d" title="Case.getPiece" alt="" coords="140,107,247,133"/>
+<area shape="rect" id="node5" href="$class_piece.html#a7f9f2a3c7eda5a514b4170a354a85219" title="Piece.equal" alt="" coords="148,157,239,184"/>
+<area shape="rect" id="node6" href="$class_piece.html#a6abb7c0a71b21d4caab617d41010f74c" title="Piece.getCouleur" alt="" coords="295,157,416,184"/>
+</map>

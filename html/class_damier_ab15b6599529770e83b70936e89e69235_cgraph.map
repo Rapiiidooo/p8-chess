@@ -1,0 +1,4 @@
+<map id="Damier.actionPossible" name="Damier.actionPossible">
+<area shape="rect" id="node2" href="$class_case.html#a642391cf4cff2ec20ebc8909ecbb562d" title="Case.getPiece" alt="" coords="213,5,319,32"/>
+<area shape="rect" id="node3" href="$class_piece.html#a6abb7c0a71b21d4caab617d41010f74c" title="Piece.getCouleur" alt="" coords="205,56,327,83"/>
+</map>

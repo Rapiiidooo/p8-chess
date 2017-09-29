@@ -1,0 +1,5 @@
+<map id="Pion.conversion" name="Pion.conversion">
+<area shape="rect" id="node2" href="$class_piece.html#a6abb7c0a71b21d4caab617d41010f74c" title="Piece.getCouleur" alt="" coords="167,5,288,32"/>
+<area shape="rect" id="node3" href="$class_piece.html#a2e6564dbdd3d2768c4729ce889e1a773" title="Piece.getCase" alt="" coords="174,56,281,83"/>
+<area shape="rect" id="node4" href="$class_case.html#a1b222c7d71df614c4a0899c80babe196" title="Case.setPiece" alt="" coords="174,107,281,133"/>
+</map>

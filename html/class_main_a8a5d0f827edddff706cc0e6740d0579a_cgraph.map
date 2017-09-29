@@ -1,0 +1,7 @@
+<map id="Main.main" name="Main.main">
+<area shape="rect" id="node2" href="$class_damier.html#a3d6f1e06e2626618397cc6fbec2a588b" title="Damier.initialiser" alt="" coords="136,31,255,57"/>
+<area shape="rect" id="node5" href="$class_affichage.html#abcbe888db7858bdcea3d1476cea127db" title="Affichage.main" alt="" coords="142,81,249,108"/>
+<area shape="rect" id="node3" href="$class_case.html#a1b222c7d71df614c4a0899c80babe196" title="Case.setPiece" alt="" coords="307,5,413,32"/>
+<area shape="rect" id="node4" href="$class_damier.html#a8103d1111efad33bf34d96776c69da8b" title="Damier.getCase" alt="" coords="303,56,417,83"/>
+<area shape="rect" id="node6" href="$class_case.html#a642391cf4cff2ec20ebc8909ecbb562d" title="Case.getPiece" alt="" coords="307,107,413,133"/>
+</map>

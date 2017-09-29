@@ -1,0 +1,5 @@
+<map id="Damier.NW" name="Damier.NW">
+<area shape="rect" id="node2" href="$class_case.html#a809c70632df92bf71504afe2c3401be4" title="Case.getX" alt="" coords="159,5,241,32"/>
+<area shape="rect" id="node3" href="$class_case.html#a382d788769c0ee8c984ed47b8a24585d" title="Case.getY" alt="" coords="159,56,241,83"/>
+<area shape="rect" id="node4" href="$class_damier.html#a8103d1111efad33bf34d96776c69da8b" title="Damier.getCase" alt="" coords="143,107,257,133"/>
+</map>

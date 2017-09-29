@@ -1,0 +1,5 @@
+<map id="Piece.copiePiece" name="Piece.copiePiece">
+<area shape="rect" id="node2" href="$class_piece.html#a82e37d3acf759ef30215b44af1da9b6e" title="Piece.Piece" alt="" coords="191,5,283,32"/>
+<area shape="rect" id="node3" href="$class_piece.html#acf8e906bed19768f54bb7d108d8695c1" title="Piece.setCouleur" alt="" coords="176,56,297,83"/>
+<area shape="rect" id="node4" href="$class_piece.html#a6abb7c0a71b21d4caab617d41010f74c" title="Piece.getCouleur" alt="" coords="176,107,297,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Piece" name="Piece">
+<area shape="rect" id="node2" href="$class_fou.html" title="{Fou\n||+ Fou()\l+ Fou()\l+ Fou()\l+ casesDisponibles()\l}" alt="" coords="5,329,149,450"/>
+<area shape="rect" id="node3" href="$class_knight.html" title="{Knight\n||+ Knight()\l+ Knight()\l+ Knight()\l+ casesDisponibles()\l}" alt="" coords="173,329,317,450"/>
+<area shape="rect" id="node4" href="$class_pion.html" title="{Pion\n||+ Pion()\l+ Pion()\l+ Pion()\l+ conversion()\l+ casesDisponibles()\l}" alt="" coords="341,321,485,457"/>
+<area shape="rect" id="node5" href="$class_reine.html" title="{Reine\n||+ Reine()\l+ Reine()\l+ Reine()\l+ casesDisponibles()\l}" alt="" coords="509,329,653,450"/>
+<area shape="rect" id="node6" href="$class_roi.html" title="{Roi\n||+ Roi()\l+ Roi()\l+ Roi()\l+ casesDisponibles()\l}" alt="" coords="677,329,821,450"/>
+<area shape="rect" id="node7" href="$class_tour.html" title="{Tour\n||+ Tour()\l+ Tour()\l+ Tour()\l+ casesDisponibles()\l}" alt="" coords="845,329,989,450"/>
+</map>

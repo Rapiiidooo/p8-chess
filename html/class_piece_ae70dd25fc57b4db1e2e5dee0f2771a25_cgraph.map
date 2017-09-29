@@ -1,0 +1,9 @@
+<map id="Piece.Est" name="Piece.Est">
+<area shape="rect" id="node2" href="$class_piece.html#a2e6564dbdd3d2768c4729ce889e1a773" title="Piece.getCase" alt="" coords="136,5,243,32"/>
+<area shape="rect" id="node3" href="$class_case.html#afe8c3c5323166c31d7c758dbc2efd080" title="Case.getDamier" alt="" coords="132,56,247,83"/>
+<area shape="rect" id="node4" href="$class_damier.html#a3347285ddc8bd1def8d393ddcb3ef68d" title="Damier.Est" alt="" coords="146,107,233,133"/>
+<area shape="rect" id="node8" href="$class_case.html#a642391cf4cff2ec20ebc8909ecbb562d" title="Case.getPiece" alt="" coords="136,157,243,184"/>
+<area shape="rect" id="node5" href="$class_case.html#a809c70632df92bf71504afe2c3401be4" title="Case.getX" alt="" coords="311,56,393,83"/>
+<area shape="rect" id="node6" href="$class_damier.html#a8103d1111efad33bf34d96776c69da8b" title="Damier.getCase" alt="" coords="295,107,409,133"/>
+<area shape="rect" id="node7" href="$class_case.html#a382d788769c0ee8c984ed47b8a24585d" title="Case.getY" alt="" coords="311,157,393,184"/>
+</map>

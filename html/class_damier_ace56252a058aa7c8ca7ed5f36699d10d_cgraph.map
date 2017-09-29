@@ -1,0 +1,13 @@
+<map id="Damier.deplacementPossible" name="Damier.deplacementPossible">
+<area shape="rect" id="node2" href="$class_case.html#a642391cf4cff2ec20ebc8909ecbb562d" title="Case.getPiece" alt="" coords="385,5,492,32"/>
+<area shape="rect" id="node3" href="$class_piece.html#a6abb7c0a71b21d4caab617d41010f74c" title="Piece.getCouleur" alt="" coords="544,183,665,209"/>
+<area shape="rect" id="node4" href="$class_case.html#a371c658843374088f839c2ed567f0fc8" title="Case.equal" alt="" coords="245,56,332,83"/>
+<area shape="rect" id="node8" href="$class_damier.html#a44ecf6c5e0d0ac651e36568a83a8dd90" title="Damier.NW" alt="" coords="244,259,333,285"/>
+<area shape="rect" id="node10" href="$class_damier.html#afba7ae9ce0ca580b6803ceae326f5e02" title="Damier.NE" alt="" coords="246,107,331,133"/>
+<area shape="rect" id="node11" href="$class_damier.html#ad317036c71ddb0eaabcf8b754c70e37e" title="Damier.SW" alt="" coords="244,157,333,184"/>
+<area shape="rect" id="node12" href="$class_damier.html#aa310ab704cc37cb5c1ef8953012ae9c8" title="Damier.SE" alt="" coords="246,208,331,235"/>
+<area shape="rect" id="node5" href="$class_case.html#a809c70632df92bf71504afe2c3401be4" title="Case.getX" alt="" coords="398,107,479,133"/>
+<area shape="rect" id="node6" href="$class_case.html#a382d788769c0ee8c984ed47b8a24585d" title="Case.getY" alt="" coords="397,157,480,184"/>
+<area shape="rect" id="node7" href="$class_piece.html#a7f9f2a3c7eda5a514b4170a354a85219" title="Piece.equal" alt="" coords="393,56,484,83"/>
+<area shape="rect" id="node9" href="$class_damier.html#a8103d1111efad33bf34d96776c69da8b" title="Damier.getCase" alt="" coords="381,208,496,235"/>
+</map>

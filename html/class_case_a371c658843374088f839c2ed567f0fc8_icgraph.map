@@ -1,0 +1,6 @@
+<map id="Case.equal" name="Case.equal">
+<area shape="rect" id="node2" href="$class_damier.html#ace56252a058aa7c8ca7ed5f36699d10d" title="Damier.deplacementPossible" alt="" coords="140,5,331,32"/>
+<area shape="rect" id="node3" href="$class_damier.html#aa55a611ac55d1fd9af10d231aa63bfb4" title="Damier.attaquePossible" alt="" coords="155,56,315,83"/>
+<area shape="rect" id="node4" href="$class_damier.html#a28e1257dd6bed520d005a0eed97111f3" title="Damier.isAttaquePossible" alt="" coords="379,56,551,83"/>
+<area shape="rect" id="node5" href="$class_damier.html#a4b6ed4ba50b7d3ed5a4a880e7f9a256b" title="Damier.isAttaquepossible\lSomewhere" alt="" coords="599,49,769,90"/>
+</map>

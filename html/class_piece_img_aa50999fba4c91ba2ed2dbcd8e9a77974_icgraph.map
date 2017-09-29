@@ -1,0 +1,5 @@
+<map id="PieceImg.getImgView" name="PieceImg.getImgView">
+<area shape="rect" id="node2" href="$class_piece.html#a90e24233543416fe6e8b57afa60df0f8" title="Piece.getImgView" alt="" coords="200,5,327,32"/>
+<area shape="rect" id="node3" href="$class_affichage.html#aeec557e6c5e3e011587afc9acee57d26" title="Affichage.refresh" alt="" coords="375,5,493,32"/>
+<area shape="rect" id="node4" href="$class_affichage.html#a00681ef021675df896e280e8585b43f9" title="Affichage.start" alt="" coords="541,5,647,32"/>
+</map>

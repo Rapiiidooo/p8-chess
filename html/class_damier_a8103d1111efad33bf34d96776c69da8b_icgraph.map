@@ -1,0 +1,35 @@
+<map id="Damier.getCase" name="Damier.getCase">
+<area shape="rect" id="node2" href="$class_affichage.html#a00681ef021675df896e280e8585b43f9" title="Affichage.start" alt="" coords="397,44,503,71"/>
+<area shape="rect" id="node3" href="$class_affichage.html#aeec557e6c5e3e011587afc9acee57d26" title="Affichage.refresh" alt="" coords="178,44,297,71"/>
+<area shape="rect" id="node4" href="$class_affichage.html#abcbe888db7858bdcea3d1476cea127db" title="Affichage.main" alt="" coords="184,146,291,172"/>
+<area shape="rect" id="node6" href="$class_damier.html#a8b0caf22e0988e8f9ea8ded7929f856f" title="Damier.copieDamier" alt="" coords="168,196,307,223"/>
+<area shape="rect" id="node7" href="$class_damier.html#a3d6f1e06e2626618397cc6fbec2a588b" title="Damier.initialiser" alt="" coords="178,95,297,122"/>
+<area shape="rect" id="node8" href="$class_damier.html#ab0eabeab7fcfa1c1e43e8a696f3b82e6" title="Damier.Nord" alt="" coords="190,399,285,426"/>
+<area shape="rect" id="node15" href="$class_damier.html#a78ff2eb41c02ec2f6e68219746e38219" title="Damier.Sud" alt="" coords="192,348,283,375"/>
+<area shape="rect" id="node17" href="$class_damier.html#ab7ee970b51b4c0226ffd818ee7b25f4f" title="Damier.Ouest" alt="" coords="186,298,289,324"/>
+<area shape="rect" id="node19" href="$class_damier.html#a3347285ddc8bd1def8d393ddcb3ef68d" title="Damier.Est" alt="" coords="194,247,281,274"/>
+<area shape="rect" id="node21" href="$class_damier.html#a44ecf6c5e0d0ac651e36568a83a8dd90" title="Damier.NW" alt="" coords="193,551,282,578"/>
+<area shape="rect" id="node28" href="$class_damier.html#afba7ae9ce0ca580b6803ceae326f5e02" title="Damier.NE" alt="" coords="195,602,280,628"/>
+<area shape="rect" id="node30" href="$class_damier.html#ad317036c71ddb0eaabcf8b754c70e37e" title="Damier.SW" alt="" coords="193,703,282,730"/>
+<area shape="rect" id="node32" href="$class_damier.html#aa310ab704cc37cb5c1ef8953012ae9c8" title="Damier.SE" alt="" coords="195,652,280,679"/>
+<area shape="rect" id="node34" href="$class_damier.html#acc78f205170c7862ebb453db663ccb1e" title="Damier.allPions" alt="" coords="623,830,736,856"/>
+<area shape="rect" id="node5" href="$class_main.html#a8a5d0f827edddff706cc0e6740d0579a" title="Main.main" alt="" coords="409,95,491,122"/>
+<area shape="rect" id="node9" href="$class_piece.html#a3632015f5d1331181681bb66ccd4bfb9" title="Piece.Nord" alt="" coords="407,298,493,324"/>
+<area shape="rect" id="node10" href="$class_knight.html#a017b56f82bf9cee77a16c9f3e1f1e24d" title="Knight.casesDisponibles" alt="" coords="597,247,762,274"/>
+<area shape="rect" id="node11" href="$class_pion.html#ac523e0b691274788dc3914ad62ea0f49" title="Pion.casesDisponibles" alt="" coords="602,399,757,426"/>
+<area shape="rect" id="node12" href="$class_reine.html#ae44179f3ff14bc9221fdb18fbbfb57fd" title="Reine.casesDisponibles" alt="" coords="599,298,760,324"/>
+<area shape="rect" id="node13" href="$class_roi.html#a8f5a395fb7c80f412e09de18ee52043b" title="Roi.casesDisponibles" alt="" coords="606,348,753,375"/>
+<area shape="rect" id="node14" href="$class_tour.html#a0c6771d950e1432656730e34475cb855" title="Tour.casesDisponibles" alt="" coords="603,196,756,223"/>
+<area shape="rect" id="node16" href="$class_piece.html#a29bbc81f7f3590113cbc8bb0f5b93f28" title="Piece.Sud" alt="" coords="409,247,491,274"/>
+<area shape="rect" id="node18" href="$class_piece.html#a214faa1a1483788ef65dc508f754be61" title="Piece.Ouest" alt="" coords="403,196,497,223"/>
+<area shape="rect" id="node20" href="$class_piece.html#ae70dd25fc57b4db1e2e5dee0f2771a25" title="Piece.Est" alt="" coords="411,146,489,172"/>
+<area shape="rect" id="node22" href="$class_damier.html#ace56252a058aa7c8ca7ed5f36699d10d" title="Damier.deplacementPossible" alt="" coords="355,703,545,730"/>
+<area shape="rect" id="node23" href="$class_damier.html#aa55a611ac55d1fd9af10d231aa63bfb4" title="Damier.attaquePossible" alt="" coords="370,652,530,679"/>
+<area shape="rect" id="node24" href="$class_damier.html#a28e1257dd6bed520d005a0eed97111f3" title="Damier.isAttaquePossible" alt="" coords="593,703,765,730"/>
+<area shape="rect" id="node26" href="$class_piece.html#ae6ca403a299e7eac82168442dd652b28" title="Piece.NW" alt="" coords="409,348,491,375"/>
+<area shape="rect" id="node25" href="$class_damier.html#a4b6ed4ba50b7d3ed5a4a880e7f9a256b" title="Damier.isAttaquepossible\lSomewhere" alt="" coords="813,772,984,813"/>
+<area shape="rect" id="node27" href="$class_fou.html#a9c31eafd2fb1a30d9c36bbe4e6a4e35f" title="Fou.casesDisponibles" alt="" coords="604,450,755,476"/>
+<area shape="rect" id="node29" href="$class_piece.html#af23d8d7f49b2da14f7c618b9966175f9" title="Piece.NE" alt="" coords="411,399,489,426"/>
+<area shape="rect" id="node31" href="$class_piece.html#a6d1f8de619898cd2e29c394a4d8eecc0" title="Piece.SW" alt="" coords="409,500,491,527"/>
+<area shape="rect" id="node33" href="$class_piece.html#af3553cdbbfa760fb29b5e83bbeb80d2c" title="Piece.SE" alt="" coords="411,450,489,476"/>
+</map>

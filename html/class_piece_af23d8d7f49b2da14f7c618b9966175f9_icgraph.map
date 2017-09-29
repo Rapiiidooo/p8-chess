@@ -1,0 +1,7 @@
+<map id="Piece.NE" name="Piece.NE">
+<area shape="rect" id="node2" href="$class_fou.html#a9c31eafd2fb1a30d9c36bbe4e6a4e35f" title="Fou.casesDisponibles" alt="" coords="138,5,289,32"/>
+<area shape="rect" id="node3" href="$class_knight.html#a017b56f82bf9cee77a16c9f3e1f1e24d" title="Knight.casesDisponibles" alt="" coords="131,56,296,83"/>
+<area shape="rect" id="node4" href="$class_pion.html#ac523e0b691274788dc3914ad62ea0f49" title="Pion.casesDisponibles" alt="" coords="136,107,291,133"/>
+<area shape="rect" id="node5" href="$class_reine.html#ae44179f3ff14bc9221fdb18fbbfb57fd" title="Reine.casesDisponibles" alt="" coords="133,157,294,184"/>
+<area shape="rect" id="node6" href="$class_roi.html#a8f5a395fb7c80f412e09de18ee52043b" title="Roi.casesDisponibles" alt="" coords="140,208,287,235"/>
+</map>

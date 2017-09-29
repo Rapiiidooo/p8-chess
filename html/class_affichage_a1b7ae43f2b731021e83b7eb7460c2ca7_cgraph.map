@@ -1,0 +1,5 @@
+<map id="Affichage.deplacementPossible" name="Affichage.deplacementPossible">
+<area shape="rect" id="node2" href="$class_case.html#a642391cf4cff2ec20ebc8909ecbb562d" title="Case.getPiece" alt="" coords="283,5,390,32"/>
+<area shape="rect" id="node3" href="$class_piece.html#a4023e5d15a349d33a4751de3715f8fd5" title="Piece.casesDisponibles" alt="" coords="256,56,417,83"/>
+<area shape="rect" id="node4" href="$class_piece.html#a6abb7c0a71b21d4caab617d41010f74c" title="Piece.getCouleur" alt="" coords="276,107,397,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Piece.setCase" name="Piece.setCase">
+<area shape="rect" id="node2" href="$class_affichage.html#ad714690a2cd623729edfd12d8549443e" title="Affichage.deplacer" alt="" coords="160,5,288,32"/>
+<area shape="rect" id="node3" href="$class_affichage.html#a00681ef021675df896e280e8585b43f9" title="Affichage.start" alt="" coords="503,5,608,32"/>
+<area shape="rect" id="node4" href="$class_affichage.html#aeec557e6c5e3e011587afc9acee57d26" title="Affichage.refresh" alt="" coords="336,31,455,57"/>
+</map>

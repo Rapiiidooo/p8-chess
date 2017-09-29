@@ -1,0 +1,11 @@
+<map id="Case.setPiece" name="Case.setPiece">
+<area shape="rect" id="node2" href="$class_affichage.html#ad714690a2cd623729edfd12d8549443e" title="Affichage.deplacer" alt="" coords="160,5,288,32"/>
+<area shape="rect" id="node5" href="$class_case.html#af0f47703c89d8337c4b5839bf2dc12cd" title="Case.copieCase" alt="" coords="165,56,283,83"/>
+<area shape="rect" id="node6" href="$class_damier.html#a3d6f1e06e2626618397cc6fbec2a588b" title="Damier.initialiser" alt="" coords="165,107,283,133"/>
+<area shape="rect" id="node8" href="$class_damier.html#a6abc997fa2c561dd41d721c9752a4804" title="Damier.deplacer" alt="" coords="166,157,282,184"/>
+<area shape="rect" id="node9" href="$class_damier.html#ad11d7a281b1f3beb869710e24a275c12" title="Damier.manger" alt="" coords="169,208,279,235"/>
+<area shape="rect" id="node10" href="$class_pion.html#a7fd483c15bbdcc0ccba1dc2d45700756" title="Pion.conversion" alt="" coords="167,259,281,285"/>
+<area shape="rect" id="node3" href="$class_affichage.html#a00681ef021675df896e280e8585b43f9" title="Affichage.start" alt="" coords="503,31,608,57"/>
+<area shape="rect" id="node4" href="$class_affichage.html#aeec557e6c5e3e011587afc9acee57d26" title="Affichage.refresh" alt="" coords="336,31,455,57"/>
+<area shape="rect" id="node7" href="$class_main.html#a8a5d0f827edddff706cc0e6740d0579a" title="Main.main" alt="" coords="354,132,437,159"/>
+</map>

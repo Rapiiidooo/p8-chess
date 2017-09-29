@@ -1,0 +1,12 @@
+<map id="Damier.NE" name="Damier.NE">
+<area shape="rect" id="node2" href="$class_damier.html#ace56252a058aa7c8ca7ed5f36699d10d" title="Damier.deplacementPossible" alt="" coords="139,5,329,32"/>
+<area shape="rect" id="node3" href="$class_damier.html#aa55a611ac55d1fd9af10d231aa63bfb4" title="Damier.attaquePossible" alt="" coords="154,56,314,83"/>
+<area shape="rect" id="node4" href="$class_damier.html#a28e1257dd6bed520d005a0eed97111f3" title="Damier.isAttaquePossible" alt="" coords="377,56,549,83"/>
+<area shape="rect" id="node6" href="$class_piece.html#af23d8d7f49b2da14f7c618b9966175f9" title="Piece.NE" alt="" coords="195,183,273,209"/>
+<area shape="rect" id="node5" href="$class_damier.html#a4b6ed4ba50b7d3ed5a4a880e7f9a256b" title="Damier.isAttaquepossible\lSomewhere" alt="" coords="597,49,768,90"/>
+<area shape="rect" id="node7" href="$class_fou.html#a9c31eafd2fb1a30d9c36bbe4e6a4e35f" title="Fou.casesDisponibles" alt="" coords="388,107,539,133"/>
+<area shape="rect" id="node8" href="$class_knight.html#a017b56f82bf9cee77a16c9f3e1f1e24d" title="Knight.casesDisponibles" alt="" coords="381,157,546,184"/>
+<area shape="rect" id="node9" href="$class_pion.html#ac523e0b691274788dc3914ad62ea0f49" title="Pion.casesDisponibles" alt="" coords="386,208,541,235"/>
+<area shape="rect" id="node10" href="$class_reine.html#ae44179f3ff14bc9221fdb18fbbfb57fd" title="Reine.casesDisponibles" alt="" coords="383,259,544,285"/>
+<area shape="rect" id="node11" href="$class_roi.html#a8f5a395fb7c80f412e09de18ee52043b" title="Roi.casesDisponibles" alt="" coords="390,309,537,336"/>
+</map>
