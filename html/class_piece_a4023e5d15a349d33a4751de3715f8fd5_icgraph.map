@@ -1,5 +1,0 @@
-<map id="Piece.casesDisponibles" name="Piece.casesDisponibles">
-<area shape="rect" id="node2" href="$class_affichage.html#a1b7ae43f2b731021e83b7eb7460c2ca7" title="Affichage.deplacementPossible" alt="" coords="215,5,417,32"/>
-<area shape="rect" id="node3" href="$class_affichage.html#a00681ef021675df896e280e8585b43f9" title="Affichage.start" alt="" coords="632,5,737,32"/>
-<area shape="rect" id="node4" href="$class_affichage.html#aeec557e6c5e3e011587afc9acee57d26" title="Affichage.refresh" alt="" coords="465,31,584,57"/>
-</map>

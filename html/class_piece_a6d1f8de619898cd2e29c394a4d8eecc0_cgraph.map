@@ -1,9 +1,0 @@
-<map id="Piece.SW" name="Piece.SW">
-<area shape="rect" id="node2" href="$class_piece.html#a2e6564dbdd3d2768c4729ce889e1a773" title="Piece.getCase" alt="" coords="139,5,245,32"/>
-<area shape="rect" id="node3" href="$class_case.html#afe8c3c5323166c31d7c758dbc2efd080" title="Case.getDamier" alt="" coords="135,56,249,83"/>
-<area shape="rect" id="node4" href="$class_damier.html#ad317036c71ddb0eaabcf8b754c70e37e" title="Damier.SW" alt="" coords="147,107,237,133"/>
-<area shape="rect" id="node8" href="$class_case.html#a642391cf4cff2ec20ebc8909ecbb562d" title="Case.getPiece" alt="" coords="139,157,245,184"/>
-<area shape="rect" id="node5" href="$class_case.html#a809c70632df92bf71504afe2c3401be4" title="Case.getX" alt="" coords="314,56,395,83"/>
-<area shape="rect" id="node6" href="$class_case.html#a382d788769c0ee8c984ed47b8a24585d" title="Case.getY" alt="" coords="313,107,396,133"/>
-<area shape="rect" id="node7" href="$class_damier.html#a8103d1111efad33bf34d96776c69da8b" title="Damier.getCase" alt="" coords="297,157,412,184"/>
-</map>

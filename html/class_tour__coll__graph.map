@@ -1,6 +1,0 @@
-<map id="Tour" name="Tour">
-<area shape="rect" id="node2" href="$class_piece.html" title="{Piece\n|+ couleur\l+ nom\l|+ Piece()\l+ Piece()\l+ Piece()\l+ getCouleur()\l+ setCouleur()\l+ getCase()\l+ setCase()\l+ getNom()\l+ setNom()\l+ getImgView()\let 13 de plus...\l}" alt="" coords="96,248,205,487"/>
-<area shape="rect" id="node4" href="$class_case.html" title="{Case\n|~ x\l~ y\l|+ Case()\l+ Case()\l+ getX()\l+ getY()\l+ getPiece()\l+ getDamier()\l+ setX()\l+ setY()\l+ setPiece()\l+ setDamier()\l+ copieCase()\l+ equal()\l}" alt="" coords="174,549,277,803"/>
-<area shape="rect" id="node3" href="$class_piece_img.html" title="{PieceImg\n|&#45; image_blanc\l&#45; image_noir\l&#45; iv\l&#45; noir\l&#45; i\l|+ PieceImg()\l~ init()\l~ getImgView()\l~ setImgView()\l}" alt="" coords="96,5,205,185"/>
-<area shape="rect" id="node5" href="$class_damier.html" title="{Damier\n||+ Damier()\l+ getCase()\l+ setCase()\l+ copieDamier()\l+ initialiser()\l+ deplacer()\l+ manger()\l+ Nord()\l+ Sud()\l+ Ouest()\let 11 de plus...\l}" alt="" coords="168,865,283,1089"/>
-</map>

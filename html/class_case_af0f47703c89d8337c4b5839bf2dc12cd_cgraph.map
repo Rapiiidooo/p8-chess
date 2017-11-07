@@ -1,9 +1,0 @@
-<map id="Case.copieCase" name="Case.copieCase">
-<area shape="rect" id="node2" href="$class_case.html#a78f4e108e49ef2fed453aa3e6cdd1ada" title="Case.Case" alt="" coords="181,5,267,32"/>
-<area shape="rect" id="node3" href="$class_case.html#ac46e99e107e16075b1cf4b14066e50af" title="Case.setX" alt="" coords="183,56,265,83"/>
-<area shape="rect" id="node4" href="$class_case.html#a809c70632df92bf71504afe2c3401be4" title="Case.getX" alt="" coords="183,107,265,133"/>
-<area shape="rect" id="node5" href="$class_case.html#a704d56ebbeb2a8cd500a361090c152f3" title="Case.setY" alt="" coords="183,157,265,184"/>
-<area shape="rect" id="node6" href="$class_case.html#a382d788769c0ee8c984ed47b8a24585d" title="Case.getY" alt="" coords="183,208,265,235"/>
-<area shape="rect" id="node7" href="$class_case.html#a1b222c7d71df614c4a0899c80babe196" title="Case.setPiece" alt="" coords="171,259,277,285"/>
-<area shape="rect" id="node8" href="$class_case.html#a642391cf4cff2ec20ebc8909ecbb562d" title="Case.getPiece" alt="" coords="171,309,277,336"/>
-</map>

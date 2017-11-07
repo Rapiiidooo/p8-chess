@@ -1,5 +1,0 @@
-<map id="Damier.allPions" name="Damier.allPions">
-<area shape="rect" id="node2" href="$class_damier.html#a8103d1111efad33bf34d96776c69da8b" title="Damier.getCase" alt="" coords="170,5,285,32"/>
-<area shape="rect" id="node3" href="$class_case.html#a642391cf4cff2ec20ebc8909ecbb562d" title="Case.getPiece" alt="" coords="174,56,281,83"/>
-<area shape="rect" id="node4" href="$class_piece.html#a6abb7c0a71b21d4caab617d41010f74c" title="Piece.getCouleur" alt="" coords="167,107,288,133"/>
-</map>

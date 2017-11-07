@@ -1,8 +1,0 @@
-<map id="Damier.Sud" name="Damier.Sud">
-<area shape="rect" id="node2" href="$class_piece.html#a29bbc81f7f3590113cbc8bb0f5b93f28" title="Piece.Sud" alt="" coords="144,107,227,133"/>
-<area shape="rect" id="node3" href="$class_knight.html#a017b56f82bf9cee77a16c9f3e1f1e24d" title="Knight.casesDisponibles" alt="" coords="275,5,440,32"/>
-<area shape="rect" id="node4" href="$class_pion.html#ac523e0b691274788dc3914ad62ea0f49" title="Pion.casesDisponibles" alt="" coords="280,56,435,83"/>
-<area shape="rect" id="node5" href="$class_reine.html#ae44179f3ff14bc9221fdb18fbbfb57fd" title="Reine.casesDisponibles" alt="" coords="277,107,438,133"/>
-<area shape="rect" id="node6" href="$class_roi.html#a8f5a395fb7c80f412e09de18ee52043b" title="Roi.casesDisponibles" alt="" coords="284,157,431,184"/>
-<area shape="rect" id="node7" href="$class_tour.html#a0c6771d950e1432656730e34475cb855" title="Tour.casesDisponibles" alt="" coords="281,208,434,235"/>
-</map>

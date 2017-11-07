@@ -1,5 +1,0 @@
-<map id="Case" name="Case">
-<area shape="rect" id="node2" href="$class_damier.html" title="{Damier\n||+ Damier()\l+ getCase()\l+ setCase()\l+ copieDamier()\l+ initialiser()\l+ deplacer()\l+ manger()\l+ Nord()\l+ Sud()\l+ Ouest()\let 11 de plus...\l}" alt="" coords="5,329,120,553"/>
-<area shape="rect" id="node3" href="$class_piece.html" title="{Piece\n|+ couleur\l+ nom\l|+ Piece()\l+ Piece()\l+ Piece()\l+ getCouleur()\l+ setCouleur()\l+ getCase()\l+ setCase()\l+ getNom()\l+ setNom()\l+ getImgView()\let 13 de plus...\l}" alt="" coords="193,321,303,560"/>
-<area shape="rect" id="node4" href="$class_piece_img.html" title="{PieceImg\n|&#45; image_blanc\l&#45; image_noir\l&#45; iv\l&#45; noir\l&#45; i\l|+ PieceImg()\l~ init()\l~ getImgView()\l~ setImgView()\l}" alt="" coords="268,42,377,222"/>
-</map>

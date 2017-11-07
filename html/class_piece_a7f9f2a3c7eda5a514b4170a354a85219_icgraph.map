@@ -1,7 +1,0 @@
-<map id="Piece.equal" name="Piece.equal">
-<area shape="rect" id="node2" href="$class_case.html#a371c658843374088f839c2ed567f0fc8" title="Case.equal" alt="" coords="144,31,231,57"/>
-<area shape="rect" id="node3" href="$class_damier.html#ace56252a058aa7c8ca7ed5f36699d10d" title="Damier.deplacementPossible" alt="" coords="279,5,469,32"/>
-<area shape="rect" id="node4" href="$class_damier.html#aa55a611ac55d1fd9af10d231aa63bfb4" title="Damier.attaquePossible" alt="" coords="294,56,454,83"/>
-<area shape="rect" id="node5" href="$class_damier.html#a28e1257dd6bed520d005a0eed97111f3" title="Damier.isAttaquePossible" alt="" coords="517,56,689,83"/>
-<area shape="rect" id="node6" href="$class_damier.html#a4b6ed4ba50b7d3ed5a4a880e7f9a256b" title="Damier.isAttaquepossible\lSomewhere" alt="" coords="737,49,908,90"/>
-</map>

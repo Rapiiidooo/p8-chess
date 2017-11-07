@@ -1,7 +1,0 @@
-<map id="Damier.Ouest" name="Damier.Ouest">
-<area shape="rect" id="node2" href="$class_piece.html#a214faa1a1483788ef65dc508f754be61" title="Piece.Ouest" alt="" coords="156,81,251,108"/>
-<area shape="rect" id="node3" href="$class_knight.html#a017b56f82bf9cee77a16c9f3e1f1e24d" title="Knight.casesDisponibles" alt="" coords="299,5,464,32"/>
-<area shape="rect" id="node4" href="$class_reine.html#ae44179f3ff14bc9221fdb18fbbfb57fd" title="Reine.casesDisponibles" alt="" coords="301,56,462,83"/>
-<area shape="rect" id="node5" href="$class_roi.html#a8f5a395fb7c80f412e09de18ee52043b" title="Roi.casesDisponibles" alt="" coords="308,107,455,133"/>
-<area shape="rect" id="node6" href="$class_tour.html#a0c6771d950e1432656730e34475cb855" title="Tour.casesDisponibles" alt="" coords="305,157,458,184"/>
-</map>

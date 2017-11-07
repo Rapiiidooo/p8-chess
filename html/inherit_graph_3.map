@@ -1,9 +1,0 @@
-<map id="Graphe hiérarchique des classes" name="Graphe hiérarchique des classes">
-<area shape="rect" id="node1" href="$class_piece.html" title="Piece" alt="" coords="5,132,60,159"/>
-<area shape="rect" id="node2" href="$class_fou.html" title="Fou" alt="" coords="115,5,159,32"/>
-<area shape="rect" id="node3" href="$class_knight.html" title="Knight" alt="" coords="108,56,167,83"/>
-<area shape="rect" id="node4" href="$class_pion.html" title="Pion" alt="" coords="113,107,161,133"/>
-<area shape="rect" id="node5" href="$class_reine.html" title="Reine" alt="" coords="110,157,165,184"/>
-<area shape="rect" id="node6" href="$class_roi.html" title="Roi" alt="" coords="117,208,158,235"/>
-<area shape="rect" id="node7" href="$class_tour.html" title="Tour" alt="" coords="114,259,161,285"/>
-</map>

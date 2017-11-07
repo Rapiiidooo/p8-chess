@@ -1,6 +1,0 @@
-<map id="Affichage.deplacer" name="Affichage.deplacer">
-<area shape="rect" id="node2" href="$class_case.html#a642391cf4cff2ec20ebc8909ecbb562d" title="Case.getPiece" alt="" coords="183,5,289,32"/>
-<area shape="rect" id="node3" href="$class_piece.html#ab9f592cc87fcc10dd4bcf2ec69d5d85e" title="Piece.setCase" alt="" coords="183,56,289,83"/>
-<area shape="rect" id="node4" href="$class_case.html#a1b222c7d71df614c4a0899c80babe196" title="Case.setPiece" alt="" coords="183,107,289,133"/>
-<area shape="rect" id="node5" href="$class_affichage.html#a34ebeacb21c0da7b1030c749368ecd1c" title="Affichage.swap" alt="" coords="181,157,291,184"/>
-</map>
